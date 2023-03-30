@@ -1,0 +1,21 @@
+
+h1 {
+	color:forestgreen;
+	font-family:sans-serif;
+	border:5px skyblue;
+}
+
+p {
+	color:forestgreen;
+	font-family:helvetica;
+}
+
+img {
+	border: 5px solid lightskyblue;
+	marging-left:100px;
+}
+
+body {
+	background-color:whitesmoke;
+}
+
